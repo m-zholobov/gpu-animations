@@ -2,7 +2,7 @@
 
 Unity URP demo comparing different character animation and particle approaches for mobile crowd rendering.
 
-[![Demo Video](https://img.youtube.com/vi/iN_jI3DnQKE/0.jpg)](https://www.youtube.com/watch?v=iN_jI3DnQKE)
+[![Demo Video](https://img.youtube.com/vi/dyg9eFg5pWA/0.jpg)](https://www.youtube.com/watch?v=dyg9eFg5pWA)
 
 ## Implemented Solutions
 
